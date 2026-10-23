@@ -48,3 +48,14 @@ Samples are porewater from a lysimeter test site (reference nitrate by a lab met
 
 Raw spectra (.spz) and trained models are not included. Stack: Python, scikit-learn, SciPy, Matplotlib/Tkinter, Arduino C++, MATLAB.
 
+
+## Thesis sub-projects (separate repos, dated by when the work was done)
+
+| Repo | Content |
+|---|---|
+| [thesis-3d-printed-design](https://github.com/parky523/thesis-3d-printed-design) | 3D-printed cuvette holders, black box, caps (STL) |
+| [thesis-arduino-autosampler](https://github.com/parky523/thesis-arduino-autosampler) | ESP32/Pico firmware, pump and shutter control, wiring and flow diagrams |
+| [thesis-realtime-gui](https://github.com/parky523/thesis-realtime-gui) | live GUI, demo simulation, screenshots, video |
+| [thesis-sensor-testing](https://github.com/parky523/thesis-sensor-testing) | spectrometer bring-up tests, spectral QC |
+| [thesis-model-performance-testing](https://github.com/parky523/thesis-model-performance-testing) | multi-model comparison, optimisation, validation plots |
+
