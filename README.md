@@ -44,5 +44,7 @@ Samples are porewater from a lysimeter test site (reference nitrate by a lab met
 | `firmware/` | ESP32 autosampler sketch and Raspberry Pi Pico variant (pumps and valves) |
 | `analysis/` | model training and optimisation, validation, spectral QC |
 | `hardware_tests/` | pump, serial-port and spectrometer USB tests |
+| `cad_3d_prints/` | STL files of the 3D-printed parts: cuvette/flow-cell holders (5.7 to 6 mm variants), light-tight black box, caps, sample holder. Designed in Onshape, printed for the rig |
 
 Raw spectra (.spz) and trained models are not included. Stack: Python, scikit-learn, SciPy, Matplotlib/Tkinter, Arduino C++, MATLAB.
+
